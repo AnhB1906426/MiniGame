@@ -1,0 +1,14 @@
+D:\8Piuzzz\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+D:\8Piuzzz\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+D:\8Piuzzz\Image Puzzle\puzzle\bin\Debug\puzzle.exe.config
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.SuggestedBindingRedirects.cache
+D:\8Piuzzz\Image Puzzle\puzzle\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CopyComplete
+D:\8Piuzzz\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
